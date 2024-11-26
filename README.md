@@ -19,7 +19,7 @@ Here's how to format your setup instructions using Markdown with proper code blo
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/Sejal3017/ColdAppDemo.git
+git clone https://github.com/Sejal3017/ColdAppMobile.git
 ```
 
 Navigate into the project directory:
