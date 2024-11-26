@@ -25,7 +25,7 @@ git clone https://github.com/Sejal3017/ColdAppMobile.git
 Navigate into the project directory:
 
 ```bash
-cd ColdAppDemo
+cd ColdAppMobile
 ```
 
 ### 2. Setting Up the Backend
